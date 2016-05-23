@@ -1,0 +1,9 @@
+"AppName" = "Verify Checksum";
+"Continue" = "Continue";
+"Quit" = "Quit";
+
+"ChooseISO" = "Select an ISO file:";
+"InsertChecksum" = "Insert the checksum for the file:";
+"CorrectChecksum" = "The checksum matched the file";
+"InvalidChecksum" = "The checksum did not match the file";
+
