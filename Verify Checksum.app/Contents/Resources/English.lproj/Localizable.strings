@@ -1,4 +1,4 @@
-"AppName" = "Verify Checksum";
+"AppTitle" = "Verify Checksum";
 "Continue" = "Continue";
 "Quit" = "Quit";
 
@@ -6,4 +6,5 @@
 "InsertChecksum" = "Insert the checksum for the file:";
 "CorrectChecksum" = "The checksum matched the file";
 "InvalidChecksum" = "The checksum did not match the file";
+"ChooseAlgorithm" = "Select the type of algorithm used:";
 
